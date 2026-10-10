@@ -1,4 +1,4 @@
-# iVisit — Visitor Management System
+# iVisit UST — Campus Entry & Security Monitoring System (A CAPSTONE PROJECT)
 
 iVisit is a three-component visitor management system for institutional facilities. It records visitor check-ins and check-outs, scans government-issued IDs via OCR, and tracks visitor passes via RFID readers. Security guards use the React frontend to manage visitor logs; the local desktop helper handles all hardware interaction.
 
